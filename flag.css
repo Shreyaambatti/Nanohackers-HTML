@@ -1,0 +1,27 @@
+.flag{
+  height:150px;
+  width:200px;
+  display: inline-block;
+  
+}
+
+.sky{
+  background-color:#75aadb;
+}
+.sun{
+  background-image:
+   url(http://media.istockphoto.com/vectors/sun-icon-illustration-vector-id495622218?k=6&m=495622218&s=170667a&w=0&h=SRp32Id9Y2ZTNlO87C4ODhSvxkNfz3JMLQ4Z9CcfRgQ=);
+  background-size: 50px 50px;
+  background-repeat:no-repeat;
+  background-position: center;
+}
+.sky{
+  background-color:#75aadb;
+  height:30%;
+  width:100%;
+}
+
+.size div{
+  height:30%;
+  width:100%;
+}
