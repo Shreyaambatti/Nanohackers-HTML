@@ -1,11 +1,13 @@
-body{
+body {
   background-color: black;
+  color: blue;
+  font-family: cursive;
 }
 
-h1{
+.purple {
   color:purple;
 }
 
-white {
-  color:blue;
+.white {
+  color:white;
 }
